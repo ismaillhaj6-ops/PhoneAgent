@@ -87,7 +87,7 @@ class Agent(
 ) {
     companion object {
         /** Change this to use another Gemini model (see ai.google.dev/gemini-api/docs/models). */
-        const val MODEL = "gemini-2.5-flash"
+        const val MODEL = "gemini-3.8-flash"
         private const val MAX_STEPS = 6
     }
 
